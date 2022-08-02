@@ -20,7 +20,7 @@ This repository contains a simple game using c++ and a library mainly aimed at v
 
 - Q: start the car
 - W: accelerate
-- S: brake / reverse
+- S: brake
 - A: steer left
 - B: steer right
 - SPACE: shoot
